@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:11.028956
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:15
 #+TITLE: 佛說出生一切如來法眼遍照大力明王經
 #+PROPERTY: CBETA_ID T21n1243
 #+PROPERTY: ID KR6j0471
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1243
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0471_T_001-0207c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1243¶
-
- 佛說出生一切如來法眼遍照大¶
+No. 1243¶
+佛說出生一切如來法眼遍照大¶
 力明王經卷上¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
