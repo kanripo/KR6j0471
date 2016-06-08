@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:11.056983
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:15
 #+TITLE: 佛說出生一切如來法眼遍照大力明王經
 #+PROPERTY: CBETA_ID T21n1243
 #+PROPERTY: ID KR6j0471
